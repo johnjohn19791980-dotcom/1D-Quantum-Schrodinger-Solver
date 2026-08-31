@@ -51,3 +51,6 @@ Dependencies:
 
 ```bash
 pip install numpy scipy matplotlib
+
+How to RunClone or download this repository.Run the main Python script:CS_code Git.py
+Enter your parameters in the GUI interface:$L$: Half-length of the spatial domain$N$: Number of grid points (e.g., 400 or 500)Potential: 1 for Harmonic Oscillator, 2 for Infinite Square WellStates: Number of energy levels to calculateClick Run to view numerical vs. analytical energies, percent errors, expectation values, and wavefunctions/probability density plots.
